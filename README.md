@@ -1,4 +1,4 @@
-=MyWeiBoDemo for iPhone
+MyWeiBoDemo for iPhone
 ================
 
 The iPhone version of MyWeiBoDemo interactive iOS application. 
