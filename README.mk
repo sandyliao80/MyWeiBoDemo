@@ -1,7 +1,7 @@
 MyWeiBoDemo for iPhone
 ================
 
-The iPhone version of MyWeather interactive iOS application. 
+The iPhone version of MyWeiBoDemo interactive iOS application. 
 
 <img src="https://raw.github.com/rick00young/MyWeiBoDemo/master/MyWeiBoDemo/myWeibo/weibo1.png" alt="" width="280px"/>
 <span>  </span><span>  </span><span>  </span>
